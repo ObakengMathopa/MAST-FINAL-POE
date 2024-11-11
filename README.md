@@ -1,2 +1,2 @@
 # MAST-FINAL-POE
-This folder/zip contains an application that is designed a chef to edit various meals by editing the prices and names of said meals to suit his preference and the resturants theme.
+This folder/zip contains an application that is designed for a chef to edit various meals by editing the prices and names of said meals to suit his preference and the resturants theme.
